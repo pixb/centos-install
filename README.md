@@ -25,3 +25,19 @@ COLOR_NC='\033[0m'
 
 echo -e "${COLOR_GREEN}This is green text.${COLOR_NC}"
 ```
+
+## install all
+
+==Install all package==
+
+- source proxy
+- config repo
+- epel-release
+- git
+- net-tools
+- wget
+- `Development Tools`
+- ncurses-devel
+- install vim
+- install tmux
+
